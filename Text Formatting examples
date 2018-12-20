@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Simple text</h1>
+
+<p>Examples of text formatting and style using only HTML</p>
+<p><b>bold text</b></p>
+<p><i>italic text</i></p>
+<p>Example of <sub> subscript</sub> and <sup>superscript</sup></p>
+<p>Text <mark>Marked</mark> Example</p>
+<p>Text <del>strike-through</del> or deleted.</p>
+<p>Text <ins>underline</ins> example.</p>
+
+</body>
+</html>
