@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+<html>
+ 
+   <head> 
+      <title>Attributes Page</title> 
+   </head>
+	
+   <body> 
+      <p align = "left">This text is left aligned</p> 
+      <p align = "center">This text is center aligned</p> 
+      <p align = "right">This text is right aligned</p> 
+   </body>
+	
+</html>
