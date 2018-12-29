@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Style Attribute</title>
+   </head>
+	
+   <body>
+      <p style = "font-family:arial; color:#FF0000;">Example of Style Attribute</p>
+   </body>
+	
+</html>
