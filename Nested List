@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Nested lists Example</title>
+</head>
+<body>
+	<ul>
+		<li>First 
+			<ul>
+				<li>Nested List 1</li>
+				<li>Nested List 1
+					<ul>
+						<li>NL2</li>
+						<li>NL2</li>
+						<li>NL2</li>
+					</ul>
+				</li>
+				<li>NL1</li>
+			</ul>
+		</li>
+		<li>First</li>
+		<li>First</li>
+	</ul>
+
+</body>
+</html>
